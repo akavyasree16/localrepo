@@ -1,2 +1,2 @@
 # This is my local repo 
-Learnt about branches
+Learnt about branches in detail
